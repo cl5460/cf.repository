@@ -1,2 +1,3 @@
 add test1
 insert test2
+insert test3
